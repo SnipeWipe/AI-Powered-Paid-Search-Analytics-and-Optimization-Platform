@@ -1,6 +1,6 @@
 # AI-Powered Paid Search Analytics & Optimization Platform
 
-## App Link - https://sl1nk.com/osvl11z
+## App Link - [Link](https://paid-search-optimization-platform-8khd8gtpunnzoqnsnqko5z.streamlit.app)
 ## Overview
 
 The AI-Powered Paid Search Analytics & Optimization Platform is an end-to-end marketing analytics solution designed to improve customer acquisition performance through advanced analytics, machine learning, experimentation, optimization, and Generative AI.
